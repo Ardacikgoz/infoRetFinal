@@ -1,0 +1,9 @@
+{
+  "macro_f1": 0.36592181917930505,
+  "micro_f1": 0.4083044982698962,
+  "threshold": 0.5,
+  "fold": 0,
+  "mode": "zero-shot",
+  "model_name": "phi3:mini",
+  "test_rows": 2400
+}

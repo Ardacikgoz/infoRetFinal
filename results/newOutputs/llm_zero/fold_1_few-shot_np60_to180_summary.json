@@ -1,0 +1,20 @@
+{
+  "macro_f1": 0.40930530742637244,
+  "micro_f1": 0.5188592456301747,
+  "threshold": 0.5,
+  "fold": 1,
+  "mode": "few-shot",
+  "model_name": "phi3:mini",
+  "test_rows": 2400,
+  "inference_errors": 0,
+  "parse_fallbacks": 51,
+  "final_parse_errors": 50,
+  "total_errors": 50,
+  "error_rate": 0.020833333333333332,
+  "repair_enabled": true,
+  "repair_num_predict": 40,
+  "repair_timeout_seconds": 180,
+  "repair_max_retries": 2,
+  "max_repair_parse_errors": 100,
+  "few_shot_source_fold": 4
+}

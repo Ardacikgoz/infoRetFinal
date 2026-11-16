@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+*_env/
+.DS_Store
+/train.csv
+/local_models/
+/outputs/
+/newOutputs/

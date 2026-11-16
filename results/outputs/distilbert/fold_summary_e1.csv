@@ -1,0 +1,2 @@
+macro_f1,micro_f1,threshold,fold,train_rows,validation_rows,test_rows
+0.43719779526593855,0.6423658872077028,0.25,4,8640,960,2400
